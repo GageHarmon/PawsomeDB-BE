@@ -7,12 +7,12 @@ name = "pypi"
 flask = "*"
 flask-sqlalchemy = "*"
 flask-migrate = "*"
+flask-cors = "*"
 flask-restful = "*"
-flask-bcrypt = "*"
 jsonify = "*"
-python-dotenv = "*"
+requests = "*"
 sqlalchemy-serializer = "*"
-cors = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
